@@ -24,7 +24,7 @@
     "nodeunit-x": "0.15.0"
   },
   "dependencies": {
-    "re2": "1.22.3"
+    "re2": "1.23.3"
   },
   "keywords": [
     "parser",
